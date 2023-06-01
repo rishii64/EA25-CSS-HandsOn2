@@ -9,9 +9,6 @@ div{
     font-style: italic;
 }
 .item1{
-    /* padding-left: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px; */
     width: 30%;
     height: 150px;
     margin-top: 30px;
@@ -79,7 +76,7 @@ section{
     display: flex;
     justify-content: space-around;
 }
-.child1{
+.child{
     background-color: aqua;
     color: blue;
     border: 2px solid green;
@@ -88,43 +85,7 @@ section{
     text-align: center;
     font-style: normal;
 }
-.child2{
-    background-color: aqua;
-    color: blue;
-    border: 2px solid green;
-    width: 250px;
-    height: 210px;
-    text-align: center;
-    font-style: normal;
-}
-.child3{
-    background-color: aqua;
-    color: blue;
-    border: 2px solid green;
-    width: 250px;
-    height: 210px;
-    text-align: center;
-    font-style: normal;
-}
-.child4{
-    background-color: aqua;
-    color: blue;
-    border: 2px solid green;
-    width: 250px;
-    height: 210px;
-    text-align: center;
-    font-style: normal;
-}
-.child5{
-    background-color: aqua;
-    color: blue;
-    border: 2px solid green;
-    width: 250px;
-    height: 210px;
-    text-align: center;
-    font-style: normal;
-}
-.child6{
+.c6{
     background-color: aqua;
     color: blue;
     border: 2px solid green;
